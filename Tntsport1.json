@@ -1,0 +1,8 @@
+{
+  "keys": [{
+    "kty": "oct",
+    "kid": "ae26845bd33038a9c0774a0981007294",
+    "k": "63ac662dde310cfb4cc6f9b43b34196d"
+  }],
+  "type": "temporary"
+}
